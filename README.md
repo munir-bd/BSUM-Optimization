@@ -1,2 +1,2 @@
 # BSUM-Optimization
-Block Successive Upper Bound Minimization (BSUM) Project
+Block Successive Upper Bound Minimization (BSUM) Optimization
